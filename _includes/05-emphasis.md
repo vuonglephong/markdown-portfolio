@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use aaaaaaaaemphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Write out some of your aweso*me att*ributes, and use aaaaaaaaemphasis (like b__old__ or italics) to identify keywords, programming languages, or skills. 
